@@ -4,3 +4,4 @@ Olá ! Bem vino ao meu livro de receitas
 
  - Strogonoff de frango
  - Pavê
+ - Lasanha
